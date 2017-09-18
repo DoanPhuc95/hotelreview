@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  rate_value: 1
+  hotel_id: 1
+  user_id: 1
+
+two:
+  rate_value: 1
+  hotel_id: 1
+  user_id: 1

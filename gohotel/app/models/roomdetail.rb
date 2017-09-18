@@ -1,0 +1,2 @@
+class Roomdetail < ApplicationRecord
+end
